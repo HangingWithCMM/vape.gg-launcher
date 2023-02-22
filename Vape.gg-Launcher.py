@@ -8,7 +8,7 @@ root = Tk()
 root.geometry("370x80")
 root.title("Vape.gg Launcher")
 root.configure(bg="#2c2f33")
-root.iconbitmap('Assets/Fav.ico')
+root.iconbitmap('Assets/icon.ico')
 
 DEFAULT_VAPE_V4_PATH = "path_to_vape_v4_exe"
 DEFAULT_VAPE_LITE_PATH = "path_to_vape_lite_exe"
